@@ -6,8 +6,8 @@ _Acá va un párrafo que describa lo que es el proyecto_
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-Mira **Deployment** para conocer como desplegar el proyecto.
 
+<<<<<<< HEAD
 ### Pre-requisitos 📋
 
 _Que cosas necesitas para instalar el software y como instalarlas_
@@ -63,3 +63,5 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 - etc.
 
 ---
+=======
+>>>>>>> 1cc7936ee0a2ed62eb2d2e3bf8fd98ac136faf57
