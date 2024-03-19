@@ -8,15 +8,16 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
-
 ### Pre-requisitos 📋
 
 _Que cosas necesitas para instalar el software y como instalarlas_
+
 ### Instalación 🔧
 
 _Una serie de ejemplos paso a paso quete dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
 
 _Dí cómo será ese paso_
+
 ## Despliegue 📦
 
 _Agrega notas adicionales sobre como hacer deploy_
@@ -25,9 +26,9 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [Dropwizard](https://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+- [Dropwizard](https://www.dropwizard.io/1.0.2/docs/) - El framework web usado
+- [Maven](https://maven.apache.org/) - Manejador de dependencias
+- [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
 
 ## Contribuyendo 🖇️
 
@@ -45,20 +46,20 @@ Usamos [SemVer](https://semver.org/) para el versionado. Para todas las versione
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Juanito Pérez** - *Trabajo Inicial* - [JuanitoPerez](#juanito-perez)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+- **Juanito Pérez** - _Trabajo Inicial_ - [JuanitoPerez](#juanito-perez)
+- **Fulanito Detal** - _Documentación_ - [fulanitodetal](#fulanito-de-tal)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto.
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detallessaASD
 
 ## Agradecimientos 🎁
 
-* Comenta a otros sobre este proyecto 📢
-* Invita un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓
-* etc.
+- Comenta a otros sobre este proyecto 📢
+- Invita un café ☕ a alguien del equipo.
+- Da las gracias públicamente 🤓
+- etc.
 
 ---
