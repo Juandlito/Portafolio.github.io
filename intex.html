@@ -13,14 +13,16 @@
      <div class="container"> 
         <nav>
             <img src="Imagenes/Logo.png" class="logo">
-            <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Mas de mi</a></li>
-                <li><a href="#">Servicios</a></li>
-                <li><a href="#">Portafolio</a></li>
-                <li><a href="#">Contacto</a></li>
-                <li><a href="#">Contacto</a></li>
+            <ul id="menu">
+                <li><a href="#Header">Home</a></li>
+                <li><a href="#Masdemi">Mas de mi</a></li>
+                <li><a href="#Servicios">Servicios</a></li>
+                <li><a href="#Portafolio">Portafolio</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+                
+                <i class="fas fa-xmark" onclick="cerrarmenu()"></i>
             </ul>
+            <i class="fas fa-bars" onclick="abrirmenu()"></i>
         </nav>
         <div class="cabezatexto">
             <p>Diseñador</p>
@@ -175,6 +177,16 @@
         event.currentTarget.classList.add("active-link"); 
         document.getElementById(tabname).classList.add("active-tab")
     }
+</script>
+<script>
+    var menu = document.getElementById("menu")
+    function abrirmenu(){
+        menu.style.right = "0";
+    }
+    function cerrarmenu(){
+        menu.style.right = "-200px";
+    }
+
 </script>
 </body>
 </html>
